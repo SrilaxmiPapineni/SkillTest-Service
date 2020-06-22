@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shivansh\\source\\repos\\SkillTestAPI\\SkillTestAPI\\SkillTestAPI.csproj": {}
+    "C:\\Users\\Shivansh\\Documents\\GitHub\\SkillTest-Service\\SkillTestAPI\\SkillTestAPI\\SkillTestAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shivansh\\source\\repos\\SkillTestAPI\\SkillTestAPI\\SkillTestAPI.csproj": {
+    "C:\\Users\\Shivansh\\Documents\\GitHub\\SkillTest-Service\\SkillTestAPI\\SkillTestAPI\\SkillTestAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shivansh\\source\\repos\\SkillTestAPI\\SkillTestAPI\\SkillTestAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Shivansh\\Documents\\GitHub\\SkillTest-Service\\SkillTestAPI\\SkillTestAPI\\SkillTestAPI.csproj",
         "projectName": "SkillTestAPI",
-        "projectPath": "C:\\Users\\Shivansh\\source\\repos\\SkillTestAPI\\SkillTestAPI\\SkillTestAPI.csproj",
+        "projectPath": "C:\\Users\\Shivansh\\Documents\\GitHub\\SkillTest-Service\\SkillTestAPI\\SkillTestAPI\\SkillTestAPI.csproj",
         "packagesPath": "C:\\Users\\Shivansh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shivansh\\source\\repos\\SkillTestAPI\\SkillTestAPI\\obj\\",
+        "outputPath": "C:\\Users\\Shivansh\\Documents\\GitHub\\SkillTest-Service\\SkillTestAPI\\SkillTestAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
